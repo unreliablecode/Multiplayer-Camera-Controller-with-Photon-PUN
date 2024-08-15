@@ -20,7 +20,7 @@ This Unity project demonstrates how to spawn and assign individual cameras to pl
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/unreliablecode/Multiplayer-Camera-Controller-with-Photon-PUN.git
    ```
    Replace `your-username` and `your-repository-name` with your GitHub username and repository name.
 
