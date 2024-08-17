@@ -22,8 +22,6 @@ This Unity project demonstrates how to spawn and assign individual cameras to pl
    ```bash
    git clone https://github.com/unreliablecode/Multiplayer-Camera-Controller-with-Photon-PUN.git
    ```
-   Replace `your-username` and `your-repository-name` with your GitHub username and repository name.
-
 2. **Open the Project in Unity**: Navigate to the project folder and open it with Unity.
 
 3. **Setup Photon PUN**:
